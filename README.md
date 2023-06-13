@@ -1,4 +1,4 @@
-#How to install
+# How to install
 
 1. Download the two program files (makefile & filecrawl.c) and place them in any directory on your computer.
 
